@@ -16,6 +16,7 @@
 	"rules": {
 		"no-console": "warn",
 		"quotes": ["error", "double"],
-		"no-inline-comments": "error"
+		"no-inline-comments": "warn",
+		"semi": [2, "always"]
 	}
 }
