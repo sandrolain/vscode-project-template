@@ -1,0 +1,12 @@
+/trash
+/secret-lab
+/node_modules
+/build
+/dist
+/docs
+.DS_Store
+test.js
+.babelrc
+.editorconfig
+.eslintignore
+.exlintrc.json
